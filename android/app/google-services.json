@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73355291779",
+    "project_id": "lunz-store",
+    "storage_bucket": "lunz-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73355291779:android:bb19aa7b7447512589bfb6",
+        "android_client_info": {
+          "package_name": "com.lunz.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7rF2J-HYnqACbdUb2JJDzEyDsNQE2zO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
