@@ -1,3 +1,5 @@
-# lunz_store
+# Lunz Store Android
 
-A new Flutter project.
+jalankan perintah berikut untuk mendapatkan semua dependensi yang diperlukan:
+```bash
+flutter pub get
